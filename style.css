@@ -25,8 +25,9 @@ body {
  }
  
 #profile-image{
-   width: 80%;
+   width: 50%;
    height: auto;
+   align: center;
 }
  
 #profile-name{
@@ -43,3 +44,6 @@ body {
     text-align: center;
     color: white;
  }
+ #profile-job {
+    text-align: center;
+}
